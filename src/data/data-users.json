@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "username": "mario",
+        "email": "mario@taskflow.dev",
+        "role": "admin"
+    },
+    {
+        "id": "2",
+        "username": "ana",
+        "email": "ana@taskflow.dev",
+        "role": "user"
+    },
+    {
+        "id": "3",
+        "username": "petar",
+        "email": "petar@taskflow.dev",
+        "role": "user"
+    },
+    {
+        "id": "4",
+        "username": "elena",
+        "email": "elena@taskflow.dev",
+        "role": "user"
+    },
+    {
+        "id": "5",
+        "username": "admin2",
+        "email": "admin2@taskflow.dev",
+        "role": "admin"
+    }
+]
